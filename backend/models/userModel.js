@@ -30,6 +30,7 @@ const userSchema = mongoose.Schema(
       },
       phone: {
          type: String,
+         default: "phone number",
       },
       bio: {
          type: String,
