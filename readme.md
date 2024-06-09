@@ -1,3 +1,1 @@
-This is my new project
-
-## Getting Started
+Personal project - Test Express a nodejs framework
