@@ -1,3 +1,3 @@
-MERN
+This is my new project
 
-Backend - Node.js_Express
+## Getting Started
